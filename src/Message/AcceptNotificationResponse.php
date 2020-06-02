@@ -22,9 +22,9 @@ class AcceptNotificationResponse extends AbstractResponse implements Notificatio
     {
         parent::__construct($request, $data);
 
-        if ($this->hasUnsupportedType()) {
-            throw new InvalidResponseException('Only macro/EMA payment callbacks are accepted');
-        }
+//        if ($this->hasUnsupportedType()) {
+//            throw new InvalidResponseException('Only macro/EMA payment callbacks are accepted');
+//        }
 
         if ($this->isSuccessful()) {
             echo 'OK';
