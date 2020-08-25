@@ -4,6 +4,7 @@ namespace Omnipay\Paysera\Message;
 
 use Omnipay\Common\Message\AbstractResponse;
 use Omnipay\Common\Message\RedirectResponseInterface;
+
 use Symfony\Component\HttpFoundation\Response as HttpResponse;
 use Symfony\Component\HttpFoundation\RedirectResponse as HttpRedirectResponse;
 
