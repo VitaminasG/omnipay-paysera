@@ -1,5 +1,6 @@
 {
     "name": "semyonchetvertnyh/omnipay-paysera",
+    "version": "0.1.0",
     "type": "library",
     "description": "Paysera gateway for Omnipay payment processing library",
     "keywords": [
