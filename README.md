@@ -14,7 +14,7 @@
 
 ## Installation
 
-Omnipay is installed via [Composer](http://getcomposer.org/). To install, require `league/omnipay` and `semyonchetvertnyh/omnipay-paysera` with Composer:
+Omnipay is installed via [Composer](http://getcomposer.org/). To install, require `league/omnipay` and `vitaminasg/omnipay-paysera` with Composer:
 
 ```bash
 composer require league/omnipay vitaminasg/omnipay-paysera
