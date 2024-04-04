@@ -17,7 +17,7 @@
 Omnipay is installed via [Composer](http://getcomposer.org/). To install, require `league/omnipay` and `semyonchetvertnyh/omnipay-paysera` with Composer:
 
 ```bash
-composer require league/omnipay semyonchetvertnyh/omnipay-paysera
+composer require league/omnipay vitaminasg/omnipay-paysera
 ```
 
 For general usage instructions, please see the main [Omnipay](https://github.com/thephpleague/omnipay) repository.
