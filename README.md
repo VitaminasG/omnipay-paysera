@@ -2,15 +2,7 @@
 
 **Paysera gateway driver for the Omnipay PHP payment processing library**
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/semyonchetvertnyh/omnipay-paysera.svg?style=flat-square)](https://packagist.org/packages/semyonchetvertnyh/omnipay-paysera)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/semyonchetvertnyh/omnipay-paysera/master.svg?style=flat-square)](https://travis-ci.org/semyonchetvertnyh/omnipay-paysera)
-[![StyleCI](https://styleci.io/repos/175416737/shield)](https://styleci.io/repos/175416737)
-[![Quality Score](https://img.shields.io/scrutinizer/g/semyonchetvertnyh/omnipay-paysera.svg?style=flat-square)](https://scrutinizer-ci.com/g/semyonchetvertnyh/omnipay-paysera)
-[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/semyonchetvertnyh/omnipay-paysera/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/semyonchetvertnyh/omnipay-paysera/?branch=master)
-[![Total Downloads](https://img.shields.io/packagist/dt/semyonchetvertnyh/omnipay-paysera.svg?style=flat-square)](https://packagist.org/packages/semyonchetvertnyh/omnipay-paysera)
-
-[Omnipay](https://github.com/thephpleague/omnipay) is a framework agnostic, multi-gateway payment processing library for PHP 5.3+. This package implements [Paysera](https://www.paysera.com/) support for Omnipay.
+(https://www.paysera.com/) support not from Omnipay.
 
 ## Installation
 
