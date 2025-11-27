@@ -2,8 +2,6 @@
 
 **Paysera gateway driver for the Omnipay PHP payment processing library**
 
-(https://www.paysera.com/) support not from Omnipay.
-
 ## Installation
 
 Omnipay is installed via [Composer](http://getcomposer.org/). To install, require `league/omnipay` and `vitaminasg/omnipay-paysera` with Composer:
